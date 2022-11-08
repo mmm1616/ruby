@@ -1,7 +1,7 @@
 if 0
-    puts '条件は真です'
+    puts 'こんにちは'
 end
 
 if nil
-    puts '条件は偽です'
+    puts 'さようなら'
 end
